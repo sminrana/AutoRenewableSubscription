@@ -1,0 +1,49 @@
+{
+  "identifier" : "7C0AA29B",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "12E9D4DF",
+      "localizations" : [
+
+      ],
+      "name" : "Test1",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "0.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "72A2A2BF",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Get all access from product 1 subscription",
+              "displayName" : "Product 1 Access",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.sminrana.ar.product1",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "product1",
+          "subscriptionGroupID" : "12E9D4DF",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}
