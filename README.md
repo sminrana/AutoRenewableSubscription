@@ -2,5 +2,5 @@
 
 ### Blog
 
-Read full article here: https://www.sminrana.com/auto-renewable-subscriptions-with-swiftui
+Read full article here: https://www.sminrana.com/ios/auto-renewable-subscriptions-with-swiftui/
 
